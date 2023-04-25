@@ -13,6 +13,16 @@
 		489A8C3229F7CEA800F5E2C7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 489A8C3129F7CEA800F5E2C7 /* Preview Assets.xcassets */; };
 		489A8C3429F7CEA800F5E2C7 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 489A8C3329F7CEA800F5E2C7 /* Persistence.swift */; };
 		489A8C3729F7CEA800F5E2C7 /* EventApp.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 489A8C3529F7CEA800F5E2C7 /* EventApp.xcdatamodeld */; };
+		489A8C4229F7D97D00F5E2C7 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 489A8C4129F7D97D00F5E2C7 /* HomeView.swift */; };
+		489A8C4429F7D9AE00F5E2C7 /* EventDetailsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 489A8C4329F7D9AE00F5E2C7 /* EventDetailsView.swift */; };
+		489A8C4829F7DA0D00F5E2C7 /* Consts.swift in Sources */ = {isa = PBXBuildFile; fileRef = 489A8C4729F7DA0D00F5E2C7 /* Consts.swift */; };
+		489A8C4A29F7DA1B00F5E2C7 /* Styles.swift in Sources */ = {isa = PBXBuildFile; fileRef = 489A8C4929F7DA1B00F5E2C7 /* Styles.swift */; };
+		489A8C4E29F7DBB000F5E2C7 /* Config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 489A8C4D29F7DBB000F5E2C7 /* Config.swift */; };
+		489A8C6429F7DD2300F5E2C7 /* AirbnbCereal_W_Bd.otf in Resources */ = {isa = PBXBuildFile; fileRef = 489A8C5F29F7DD2300F5E2C7 /* AirbnbCereal_W_Bd.otf */; };
+		489A8C6529F7DD2300F5E2C7 /* AirbnbCereal_W_Blk.otf in Resources */ = {isa = PBXBuildFile; fileRef = 489A8C6029F7DD2300F5E2C7 /* AirbnbCereal_W_Blk.otf */; };
+		489A8C6629F7DD2300F5E2C7 /* AirbnbCereal_W_Bk.otf in Resources */ = {isa = PBXBuildFile; fileRef = 489A8C6129F7DD2300F5E2C7 /* AirbnbCereal_W_Bk.otf */; };
+		489A8C6729F7DD2300F5E2C7 /* AirbnbCereal_W_Md.otf in Resources */ = {isa = PBXBuildFile; fileRef = 489A8C6229F7DD2300F5E2C7 /* AirbnbCereal_W_Md.otf */; };
+		489A8C6829F7DD2300F5E2C7 /* AirbnbCereal_W_Lt.otf in Resources */ = {isa = PBXBuildFile; fileRef = 489A8C6329F7DD2300F5E2C7 /* AirbnbCereal_W_Lt.otf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +33,17 @@
 		489A8C3129F7CEA800F5E2C7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		489A8C3329F7CEA800F5E2C7 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		489A8C3629F7CEA800F5E2C7 /* EventApp.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = EventApp.xcdatamodel; sourceTree = "<group>"; };
+		489A8C4129F7D97D00F5E2C7 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		489A8C4329F7D9AE00F5E2C7 /* EventDetailsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EventDetailsView.swift; sourceTree = "<group>"; };
+		489A8C4729F7DA0D00F5E2C7 /* Consts.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Consts.swift; sourceTree = "<group>"; };
+		489A8C4929F7DA1B00F5E2C7 /* Styles.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Styles.swift; sourceTree = "<group>"; };
+		489A8C4D29F7DBB000F5E2C7 /* Config.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Config.swift; sourceTree = "<group>"; };
+		489A8C5F29F7DD2300F5E2C7 /* AirbnbCereal_W_Bd.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AirbnbCereal_W_Bd.otf; path = ../../../../Downloads/AirbnbCereal_W_Bd.otf; sourceTree = "<group>"; };
+		489A8C6029F7DD2300F5E2C7 /* AirbnbCereal_W_Blk.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AirbnbCereal_W_Blk.otf; path = ../../../../Downloads/AirbnbCereal_W_Blk.otf; sourceTree = "<group>"; };
+		489A8C6129F7DD2300F5E2C7 /* AirbnbCereal_W_Bk.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AirbnbCereal_W_Bk.otf; path = ../../../../Downloads/AirbnbCereal_W_Bk.otf; sourceTree = "<group>"; };
+		489A8C6229F7DD2300F5E2C7 /* AirbnbCereal_W_Md.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AirbnbCereal_W_Md.otf; path = ../../../../Downloads/AirbnbCereal_W_Md.otf; sourceTree = "<group>"; };
+		489A8C6329F7DD2300F5E2C7 /* AirbnbCereal_W_Lt.otf */ = {isa = PBXFileReference; lastKnownFileType = file; name = AirbnbCereal_W_Lt.otf; path = ../../../../Downloads/AirbnbCereal_W_Lt.otf; sourceTree = "<group>"; };
+		489A8C6929F7DD4F00F5E2C7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +76,13 @@
 		489A8C2929F7CEA600F5E2C7 /* EventApp */ = {
 			isa = PBXGroup;
 			children = (
+				489A8C6929F7DD4F00F5E2C7 /* Info.plist */,
+				489A8C4F29F7DC2800F5E2C7 /* fonts */,
+				489A8C4629F7D9F600F5E2C7 /* Utils */,
+				489A8C4029F7D62500F5E2C7 /* Data */,
+				489A8C3F29F7D61E00F5E2C7 /* View */,
+				489A8C3E29F7D61600F5E2C7 /* Model */,
+				489A8C3D29F7D60200F5E2C7 /* ViewModels */,
 				489A8C2A29F7CEA600F5E2C7 /* EventAppApp.swift */,
 				489A8C2C29F7CEA600F5E2C7 /* ContentView.swift */,
 				489A8C2E29F7CEA800F5E2C7 /* Assets.xcassets */,
@@ -71,6 +99,66 @@
 				489A8C3129F7CEA800F5E2C7 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		489A8C3D29F7D60200F5E2C7 /* ViewModels */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = ViewModels;
+			sourceTree = "<group>";
+		};
+		489A8C3E29F7D61600F5E2C7 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		489A8C3F29F7D61E00F5E2C7 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				489A8C4529F7D9C700F5E2C7 /* Widget */,
+				489A8C4129F7D97D00F5E2C7 /* HomeView.swift */,
+				489A8C4329F7D9AE00F5E2C7 /* EventDetailsView.swift */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		489A8C4029F7D62500F5E2C7 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		489A8C4529F7D9C700F5E2C7 /* Widget */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Widget;
+			sourceTree = "<group>";
+		};
+		489A8C4629F7D9F600F5E2C7 /* Utils */ = {
+			isa = PBXGroup;
+			children = (
+				489A8C4729F7DA0D00F5E2C7 /* Consts.swift */,
+				489A8C4929F7DA1B00F5E2C7 /* Styles.swift */,
+				489A8C4D29F7DBB000F5E2C7 /* Config.swift */,
+			);
+			path = Utils;
+			sourceTree = "<group>";
+		};
+		489A8C4F29F7DC2800F5E2C7 /* fonts */ = {
+			isa = PBXGroup;
+			children = (
+				489A8C5F29F7DD2300F5E2C7 /* AirbnbCereal_W_Bd.otf */,
+				489A8C6129F7DD2300F5E2C7 /* AirbnbCereal_W_Bk.otf */,
+				489A8C6029F7DD2300F5E2C7 /* AirbnbCereal_W_Blk.otf */,
+				489A8C6329F7DD2300F5E2C7 /* AirbnbCereal_W_Lt.otf */,
+				489A8C6229F7DD2300F5E2C7 /* AirbnbCereal_W_Md.otf */,
+			);
+			path = fonts;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -131,6 +219,11 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				489A8C6729F7DD2300F5E2C7 /* AirbnbCereal_W_Md.otf in Resources */,
+				489A8C6829F7DD2300F5E2C7 /* AirbnbCereal_W_Lt.otf in Resources */,
+				489A8C6629F7DD2300F5E2C7 /* AirbnbCereal_W_Bk.otf in Resources */,
+				489A8C6429F7DD2300F5E2C7 /* AirbnbCereal_W_Bd.otf in Resources */,
+				489A8C6529F7DD2300F5E2C7 /* AirbnbCereal_W_Blk.otf in Resources */,
 				489A8C3229F7CEA800F5E2C7 /* Preview Assets.xcassets in Resources */,
 				489A8C2F29F7CEA800F5E2C7 /* Assets.xcassets in Resources */,
 			);
@@ -145,7 +238,12 @@
 			files = (
 				489A8C3729F7CEA800F5E2C7 /* EventApp.xcdatamodeld in Sources */,
 				489A8C3429F7CEA800F5E2C7 /* Persistence.swift in Sources */,
+				489A8C4E29F7DBB000F5E2C7 /* Config.swift in Sources */,
 				489A8C2D29F7CEA600F5E2C7 /* ContentView.swift in Sources */,
+				489A8C4A29F7DA1B00F5E2C7 /* Styles.swift in Sources */,
+				489A8C4229F7D97D00F5E2C7 /* HomeView.swift in Sources */,
+				489A8C4829F7DA0D00F5E2C7 /* Consts.swift in Sources */,
+				489A8C4429F7D9AE00F5E2C7 /* EventDetailsView.swift in Sources */,
 				489A8C2B29F7CEA600F5E2C7 /* EventAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -277,6 +375,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"EventApp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EventApp/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -305,6 +405,8 @@
 				DEVELOPMENT_ASSET_PATHS = "\"EventApp/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = EventApp/Info.plist;
+				INFOPLIST_KEY_LSApplicationCategoryType = "";
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
